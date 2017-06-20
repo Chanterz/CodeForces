@@ -1,0 +1,4 @@
+# Игнорируем все файлы pyCharm
+.idea/
+__pycache__/
+*.rar
